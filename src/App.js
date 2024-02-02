@@ -16,7 +16,7 @@ function App() {
   const [dailyWeather, setDailyWeather] = useState(null);
   const [location, setLocation] = useState("");
   const [flag, setFlag] = useState(false);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
   useEffect(() => {
     const body = document.getElementById("body");
     if (body) {
