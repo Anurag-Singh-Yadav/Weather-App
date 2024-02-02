@@ -1,0 +1,32 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+:root {
+  --default-background-color: #ececec;
+  --dark-background-color: #333;
+  --dark-text-color: #fff;
+  --default-background-color-body: #e2e2e2;
+  --light-background-color: #fff;
+  --default-text-color: #333;
+  --light-text-color: #333;
+}
+
+.mode1 {
+  background-color: var(--default-background-color-body);
+  color: var(--default-text-color);
+}
+.mode2 {
+  background-color: var(--light-background-color);
+  color: var(--light-text-color);
+}
+
+.mode3 {
+  background-color: var(--dark-background-color);
+  color: var(--dark-text-color);
+}
+
+.box-shadow1 {
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+}
+
