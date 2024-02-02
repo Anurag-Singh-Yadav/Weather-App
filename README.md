@@ -4,8 +4,8 @@ Description
 This Weather Web App is a simple yet powerful tool that provides users with current weather conditions and forecasts for locations worldwide. Built using React, it offers a seamless and intuitive user experience.
 
 Features
-Current Weather: Instantly view the current weather conditions, including temperature, humidity, and description.
-Forecast: Access hourly and daily weather forecasts to plan your activities ahead.
+Current Weather: Instantly view the current weather conditions, including temperature, humidity, and description.<br>
+Forecast: Access hourly and daily weather forecasts to plan your activities ahead.<br>
 Search by Location: Search for weather information by entering the name of a city or location.
 Responsive Design: Enjoy a consistent experience across devices with a responsive design.
 Technologies Used
