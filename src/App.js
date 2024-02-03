@@ -69,7 +69,7 @@ function App() {
   return (
     <div id="body" className="px-2 md:px-8 min-h-screen py-2 mode2">
       <div
-        className={`w-full h-[98vh] md:w-3/4  mx-auto ${
+        className={`w-full min-h-[98vh] md:w-3/4  mx-auto ${
           mode === "Dark" ? "mode3" : "bg-gray-50"
         }`}
       >
